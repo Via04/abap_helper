@@ -1,0 +1,6 @@
+### Python common ###
+/__pycache__/
+/venv/
+
+### IntelliJ IDEA ###
+/.idea/
